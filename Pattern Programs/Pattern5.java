@@ -1,4 +1,4 @@
-/* perform below pattern 
+/* perform below pattern with pyramid soultion
 
 1
 1 3 
