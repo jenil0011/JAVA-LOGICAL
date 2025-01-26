@@ -22,8 +22,9 @@ public class Pattern11 {
             for(int j=1; j<=i; j++) // column loop
             {
                 System.out.print(a+" ");
-                a++; //it will increment value of a in each iteration.
+               // a++; //it will increment value of a in each iteration.
             }
+            
             System.out.println("");
         }
     }
